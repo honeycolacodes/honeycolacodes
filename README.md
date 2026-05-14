@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm honeycolacodes 👋
 
-<!--
-**honeycolacodes/honeycolacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer specializing in automation, data processing, web scraping, and bots.
+I build practical tools that save time and solve real problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python
+- **Tools:** Git, GitHub
+- **Specialties:** Automation scripts, data cleaning, web scraping, Discord bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+| Project | Description | Tech |
+|---|---|---|
+| 🗂️ [File Organizer](#) | Automatically sorts files into folders by type | Python |
+| 🧹 [CSV Data Cleaner](#) | Cleans and reformats messy spreadsheet data | Python, Pandas |
+| 🌐 [Web Scraper](#) | Scrapes and exports data from websites | Python, BeautifulSoup |
+| 🤖 [Discord Bot](#) | Multi-command bot for Discord servers | Python, discord.py |
+
+## 📫 Contact
+Open to freelance work! Reach me via GitHub or leave a message on [Fiverr](#).
