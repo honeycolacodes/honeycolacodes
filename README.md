@@ -15,6 +15,7 @@ I build practical tools that save time and solve real problems.
 | 🧹 [CSV Data Cleaner](https://github.com/honeycolacodes/csv-data-cleaner) | Cleans and reformats messy spreadsheet data | Python, Pandas |
 | 🌐 [Web Scraper](https://github.com/honeycolacodes/web-scraper) | Scrapes and exports data from websites | Python, BeautifulSoup |
 | 🤖 [Discord Bot](https://github.com/honeycolacodes/discord-bot) | Multi-command bot for Discord servers | Python, discord.py |
+| 🐾 [BitBuddy](https://github.com/honeycolacodes/bitbuddy) | A virtual pet that lives in your terminal | Python |
 
 ## 📫 Contact
 Open to freelance work! Reach me via GitHub or leave a message on [Fiverr](https://www.fiverr.com).
