@@ -11,10 +11,10 @@ I build practical tools that save time and solve real problems.
 ## 📂 Projects
 | Project | Description | Tech |
 |---|---|---|
-| 🗂️ [File Organizer](#) | Automatically sorts files into folders by type | Python |
-| 🧹 [CSV Data Cleaner](#) | Cleans and reformats messy spreadsheet data | Python, Pandas |
-| 🌐 [Web Scraper](#) | Scrapes and exports data from websites | Python, BeautifulSoup |
-| 🤖 [Discord Bot](#) | Multi-command bot for Discord servers | Python, discord.py |
+| 🗂️ [File Organizer](https://github.com/honeycolacodes/file-organizer) | Automatically sorts files into folders by type | Python |
+| 🧹 [CSV Data Cleaner](https://github.com/honeycolacodes/csv-data-cleaner) | Cleans and reformats messy spreadsheet data | Python, Pandas |
+| 🌐 [Web Scraper](https://github.com/honeycolacodes/web-scraper) | Scrapes and exports data from websites | Python, BeautifulSoup |
+| 🤖 [Discord Bot](https://github.com/honeycolacodes/discord-bot) | Multi-command bot for Discord servers | Python, discord.py |
 
 ## 📫 Contact
-Open to freelance work! Reach me via GitHub or leave a message on [Fiverr](#).
+Open to freelance work! Reach me via GitHub or leave a message on [Fiverr](https://www.fiverr.com).
