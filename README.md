@@ -16,7 +16,7 @@ I build practical tools that save time and solve real problems.
 | 🌐 [Web Scraper](https://github.com/honeycolacodes/web-scraper) | Scrapes and exports data from websites | Python, BeautifulSoup |
 | 🤖 [Discord Bot](https://github.com/honeycolacodes/discord-bot) | Multi-command bot for Discord servers | Python, discord.py |
 | 🐾 [BitBuddy](https://github.com/honeycolacodes/bitbuddy) | A virtual pet that lives in your terminal | Python |
-| 🌐 [Dylan Jacob Social](https://honeycolacodes.github.io/dylanjacob-social) | Social media manager site with client analytics | HTML, CSS |
+| 🌐 [Dylan Jacob Social](https://earnest-starlight-dcebc3.netlify.app) | Social media manager site with client analytics | HTML, CSS |
 
 ## 📫 Contact
 Open to freelance work! Reach me via GitHub or leave a message on [Fiverr](https://www.fiverr.com).
