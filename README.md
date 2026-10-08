@@ -11,6 +11,7 @@ I build practical tools that save time and solve real problems.
 ## 📂 Projects
 | Project | Description | Tech |
 |---|---|---|
+| 💬 [Less Admin. More Human.](https://github.com/honeycolacodes/less-admin-more-human) | AI prompts for hiring, built into a PDF guide and a [web tool](https://honeycolacodes.github.io/less-admin-more-human/), with evals that test every prompt against Claude | Python, JavaScript, Playwright, pytest, GitHub Actions |
 | 🗂️ [File Organizer](https://github.com/honeycolacodes/file-organizer) | Automatically sorts files into folders by type | Python |
 | 🧹 [CSV Data Cleaner](https://github.com/honeycolacodes/csv-data-cleaner) | Cleans and reformats messy spreadsheet data | Python, Pandas |
 | 🌐 [Web Scraper](https://github.com/honeycolacodes/web-scraper) | Scrapes and exports data from websites | Python, BeautifulSoup |
