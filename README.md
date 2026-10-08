@@ -4,9 +4,9 @@ I'm a Python developer specializing in automation, data processing, web scraping
 I build practical tools that save time and solve real problems.
 
 ## 🛠️ Skills
-- **Languages:** Python, HTML, CSS
-- **Tools:** Git, GitHub
-- **Specialties:** Automation scripts, data cleaning, web scraping, Discord bots
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, GitHub Actions, pytest, Playwright, Jinja
+- **Specialties:** Automation scripts, data cleaning, web scraping, Discord bots, LLM prompt evals
 
 ## 📂 Projects
 | Project | Description | Tech |
